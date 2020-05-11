@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--Head-includes favicon, font, stylesheet-->
-    <title>Contact Donnie Gunn</title>
+    <title>Donnie Gunn Web Design</title>
     <link rel="icon" type="image/png" href="favicon/favicon-50x50.png" sizes="50x50" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
     <link href="https://fonts.googleapis.com/css?family=Muli&display=swap" rel="stylesheet">
@@ -13,8 +13,8 @@
   <body>
     <!--header-includes logo and navigation bar w/ site links-->
     <header class="page-header">
-      <img src="img/donnie_gunn_logo_white.png" class="logo" alt="This is a logo for Donnie Gunn">
-        <nav class="main-navigation page-header__item">
+      <img src="img/donnie_gunn_logo_white.png" class="navigation_logo" alt="This is a logo for Donnie Gunn">
+        <nav class="page-header__item">
           <ul role="menubar" class="navigation-list">
             <li role="presentation">
               <a href="index.html" role="menuitem" class="navigation-list__item">Home</a>
@@ -23,43 +23,64 @@
               <a href="about.html" role="menuitem" class="navigation-list__item">About</a>
             </li>
             <li role="presentation">
-              <a href="experience.html" role="menuitem" class="navigation-list__item">Experience</a>
-            </li>
-            <li role="presentation">
               <a href="portfolio.html" role="menuitem" class="navigation-list__item">Portfolio</a>
             </li>
             <li role="presentation">
-              <a href="contact.html" role="menuitem" class="navigation-list__item--active">Contact Me</a>
+              <a href="contact.html" role="menuitem" class="navigation-list__item--active">Contact</a>
             </li>
           </ul>
         </nav>
     </header>
 
-    <div class="contact_info">
-      Donnie Gunn<br>
-      1023 W. Wildwind Place<br>
-      Pueblo West, CO 81007<br>
-      Skype: <a href="#"> Donnie Gunn </a><br>
-      Email:<a href="donnie.gunn@bluejacketinteractive.com"> donnie.gunn</a><br>
-      Telephone:<a href="tel:17194151605"> 1-719-415-1605</a><br>
+    <section class="contact_profile">
 
-      <form action="#" method="post" id="contact-form">
-        <label class="standard_label_req" for="contact-email">*E-mail: </label>
+      <div id="contact-form">
+        <form action="#" method="post">
+          <div id="full_name">
+            <div id="first_name">
+              <label for="fname">First Name:* <br>
+                <input type="text" id="fname" name="fname">
+              </label>
+            </div>
+            <div id="last_name">
+              <label for="lname">Last Name:* <br>
+                <input type="text" id="lname" name="lname">
+              </label>
+            </div>
+          </div>
+        <label for="contact-email">Business Email:* </label><br>
         <input type="email" id="contact-email" placeholder="enter email address (required)" required=""><br>
-        <label class="standard_label" for="contact-tel">Telephone: </label>
+        <label for="contact-tel">Telephone: </label><br>
         <input type="tel" id="contact-tel" placeholder="123-45-6789" pattern="\d{3}[\-]\d{3}[\-]\d{4}" ><br>
-        <label class="standard_label_req" for="contact-message">*Message: </label>
+        <label for="contact-message">Tell me more about yourself:* </label><br>
         <textarea maxlength="350" id="contact-message" placeholder="message (required)" required=""></textarea><br>
         <input type="submit" id="submit-button" value="Send message">
-      </form>
-    </div>
+        </form>
+      </div>
+      <div class="contact_info--map">
+        <div id="contact-map">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1846.5247304457528!2d-104.75856583690381!3d38.89031922732054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87134f4be6c54f5b%3A0xbf18a6d8ebf26325!2s3906%20Austin%20Bluffs%20Pkwy%2C%20Colorado%20Springs%2C%20CO%2080918!5e0!3m2!1sen!2sus!4v1589216684968!5m2!1sen!2sus" width="400px" height="400"frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
+        <div id="contact-info">
+        <b>Bluejacket Interactive</b><br>
+        Attn: Donnie Gunn<br>
+        3906 Austin Bluffs Pkwy<br>
+        Ste. 31-1045<br>
+        Colorado Springs, CO 80918-6658<br>
+        Skype: <a href="#"> Donnie Gunn </a><br>
+        Email:<a href="donnie.gunn@bluejacketinteractive.com"> donnie.gunn</a><br>
+        Telephone:<a href="tel:17195058102"> 1-719-505-8102</a><br>
+        </div>
+      </div>
+    </section>
     <!-- Footer with links to social media profiles -->
-    <footer class="page-footer">
-      <div class="social-media">
-        <h3>find me on social media</h3><br>
-        <a href="https://www.github.com" target="https://www.github.com"><img src="img/github_icon.svg" alt="github icon"></a>
-        <a href="https://www.twitter.com" target="https://www.twitter.com"><img src="img/twitter_icon.svg" alt="twitter icon"></a>
-        <a href="https://www.linkedin.com" target="https://www.linkedin.com"><img src="img/linkedin_icon.svg" alt="linkedin icon"></a>
+<footer class="page-footer">
+      <div><br><br><br>
+        <p>find me on<br>
+        <a href="https://github.com/donniegunn/portfolio-website" target="_blank" class="social-media_item"><img width="50" height="50" src="img/github_icon.svg" alt="github icon"></a>
+        <a href="https://twitter.com/DoneneaK"target="_blank"class="social-media_item"><img width="50" height="50" src="img/twitter_icon.svg" alt="twitter icon"></a>
+        <a href="https://www.linkedin.com/in/donald-enea-3775ba18b/"target="_blank"class="social-media_item"><img width="50" height="50" src="img/linkedin_icon.svg" alt="linkedin icon"></a>
+      </p>
       </div>
     </footer>
    <script src="js/tota11y.min.js"></script>

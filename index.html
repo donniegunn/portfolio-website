@@ -13,8 +13,8 @@
   <body>
     <!--header-includes logo and navigation bar w/ site links-->
     <header class="page-header">
-      <img src="img/donnie_gunn_logo_white.png" class="logo" alt="This is a logo for Donnie Gunn">
-        <nav class="main-navigation page-header__item">
+      <img src="img/donnie_gunn_logo_white.png" class="navigation_logo" alt="This is a logo for Donnie Gunn">
+        <nav class="page-header__item">
           <ul role="menubar" class="navigation-list">
             <li role="presentation">
               <a href="index.html" role="menuitem" class="navigation-list__item--active">Home</a>
@@ -23,13 +23,10 @@
               <a href="about.html" role="menuitem" class="navigation-list__item">About</a>
             </li>
             <li role="presentation">
-              <a href="experience.html" role="menuitem" class="navigation-list__item">Experience</a>
-            </li>
-            <li role="presentation">
               <a href="portfolio.html" role="menuitem" class="navigation-list__item">Portfolio</a>
             </li>
             <li role="presentation">
-              <a href="contact.html" role="menuitem" class="navigation-list__item">Contact Me</a>
+              <a href="contact.html" role="menuitem" class="navigation-list__item">Contact</a>
             </li>
           </ul>
         </nav>
@@ -37,21 +34,22 @@
 
 <!--insert main content-->
 
-    <div class="index_profile">
-      <img src="img/donnie_gunn_profile.png" class="profile__portrait" alt="Donnie Gunn profile portrait">
-      <h1 id="index_h1">Hello, I’m Donnie Gunn</h1>
-      <p id="intro_greeting">
-       I am a <span>Full Stack Web Developer</span> from Colorado USA with 5 years experience in website and application development. My goal is to create engaging websites to keep customers coming to your site over and over again. 
-      <a href="about.html" class="about_button" >About Me</a>
-      </p>
+    <div class="profile">
+      <section class="intro">
+      <img src="img/donnie_gunn_profile.png" class="profile_portrait" alt="Donnie Gunn profile portrait">
+       <p id="intro_p"><span id="h1_intro--span">Looking for a fullstack Web Developer?</span><br>
+       <span id="intro_span">Hello, I'm Donnie</span><br>
+       I am a Colorado-based web developer who is dedicated to bringing your ideas to life in a simple yet stunning way. </p>
+     </section>
     </div>
     <!-- Footer with links to social media profiles -->
-    <footer class="page-footer">
-      <div class="social-media">
-        <h3>find me on social media</h3><br>
-        <a href="https://www.github.com" target="https://www.github.com"><img src="img/github_icon.svg" alt="github icon"></a>
-        <a href="https://www.twitter.com" target="https://www.twitter.com"><img src="img/twitter_icon.svg" alt="twitter icon"></a>
-        <a href="https://www.linkedin.com" target="https://www.linkedin.com"><img src="img/linkedin_icon.svg" alt="linkedin icon"></a>
+   <footer class="page-footer">
+      <div>
+        <p>find me on<br>
+        <a href="https://github.com/donniegunn/portfolio-website" target="_blank" class="social-media_item"><img width="50" height="50" src="img/github_icon.svg" alt="github icon"></a>
+        <a href="https://twitter.com/DoneneaK"target="_blank"class="social-media_item"><img width="50" height="50" src="img/twitter_icon.svg" alt="twitter icon"></a>
+        <a href="https://www.linkedin.com/in/donald-enea-3775ba18b/"target="_blank"class="social-media_item"><img width="50" height="50" src="img/linkedin_icon.svg" alt="linkedin icon"></a>
+      </p>
       </div>
     </footer>
    <script src="js/tota11y.min.js"></script>

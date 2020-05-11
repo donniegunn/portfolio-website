@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"inline-",
+				"inline-flex\tdisplay"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"Margin",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"inline",
+				"inline-flex\tdisplay"
+			],
+			[
+				"navigation",
+				"navigation-list"
+			],
+			[
+				"in",
+				"inline-flex\tdisplay"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"blo",
+				"inline-block\tdisplay"
+			],
+			[
+				"bol",
+				"bold\tfont-weight"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"contact",
+				"contact-form"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"message",
+				"messageInput"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sublimelinter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"w3",
+				"W3C Validators: Validate HTML5"
+			],
+			[
+				"seti ui",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"css",
+				"W3C Validators: Validate CSS 3"
+			],
+			[
+				"set ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: s",
+				"Package Control: Remove Repository"
+			],
+			[
+				"",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post-Course Cleanup5.10.20/css/style.production.css",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post-Course Cleanup5.10.20/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post-Course Cleanup5.10.20/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post-Course Cleanup5.10.20/portfolio.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post-Course Cleanup5.10.20/contact.html",
+		"/C/Users/donen/Desktop/Post Course Cleanup 5.8.20/about.html",
+		"/C/Users/donen/Desktop/Post Course Cleanup 5.8.20/img/skyline.svg",
+		"/C/Users/donen/Desktop/Post Course Cleanup 5.8.20/portfolio.html",
+		"/C/Users/donen/Desktop/Post Course Cleanup 5.8.20/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post-Course Cleanup5.10.20/experience.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post Course Cleanup 5.8.20/css/style.production.css",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post Course Cleanup 5.8.20/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post Course Cleanup 5.8.20/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post Course Cleanup 5.8.20/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Post Course Cleanup 5.8.20/portfolio.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/css/style.production.css",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/portfolio.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/experience.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/img/skyline.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/img/twitter_icon.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/img/linkedin_icon.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/css/styles.css",
+		"/C/Users/donen/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/donen/AppData/Roaming/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/C/Users/donen/AppData/Roaming/Sublime Text 3/Packages/Sublime-W3CValidators/Sublime-W3CValidators.sublime-settings",
+		"/C/Users/donen/AppData/Roaming/Sublime Text 3/Packages/User/Sublime-W3CValidators.sublime-settings",
+		"/C/Users/donen/AppData/Roaming/Sublime Text 3/Packages/CSSLint/CSSLint.sublime-settings",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/img/Skyline colorado.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/img/SoCo-Skyline.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-10/img/Skyline.svg",
+		"/C/Users/donen/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-9/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-9/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-9/experience.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-9/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-9/portfolio.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-9/css/style.production.css",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercise 1-9/img/Skyline colorado SVG with bg.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-8/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-8/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-8/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-8/experience.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-8/portfolio.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-8/css/styles.css",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-8/css/style.production.css",
+		"/C/windows/temp/Rar$DRa16496.4381/portfolio_website/css/style.css",
+		"/C/Users/donen/Desktop/BJabout",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/experience.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/portfolio.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/css/styles.css",
+		"/C/Users/donen/Desktop/Portfolio/css/styles.css",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/work.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-6/css/styles.css",
+		"/C/Users/donen/Desktop/apw 2020/css/styles.css",
+		"/C/Users/donen/Desktop/apw 2020/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/img/github_icon.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/img/twitter_icon.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-7/img/linkedin_icon.svg",
+		"/C/Users/donen/Desktop/iconfinder_linkedin_294671.svg",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-6/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-6/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-6/work.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-6/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-5/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-5/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-5/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-5/css/styles.css",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-4/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-4/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exersize 1-4/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercize 1.3/contact.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercize 1.3/index.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercize 1.3/about.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercize 1.3/bonus task 1-3.html",
+		"/C/Users/donen/Desktop/CF Tasks and Assignments/Exercize 1.3/Bonus.html",
+		"/C/Users/donen/Desktop/home.html",
+		"/C/Users/donen/Desktop/absolute power was 2020/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fun",
+			"exp",
+			"main",
+			"list",
+			"about",
+			"about_profile",
+			"social",
+			"bold",
+			"block",
+			"main",
+			"webkit",
+			"*",
+			"width",
+			"fun",
+			"about",
+			"active",
+			"social",
+			"social-media",
+			"page",
+			"main",
+			"#",
+			"NAV",
+			"</p>",
+			"<p>",
+			"cloud",
+			"width",
+			"**\\s** ",
+			"\n.cls-1{\nfill:#fbf8f8;}\n.cls-2,.cls-3{\nfill:#769fa8;}\n.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-2,.cls-20,.cls-21,.cls-22,.cls-24,.cls-25,.cls-27,.cls-28,.cls-29,.cls-31,.cls-32,.cls-33,.cls-34,.cls-4,.cls-42,.cls-43,.cls-44,.cls-45,.cls-46,.cls-48,.cloud-back, .cloud-front{\nstroke:#000;}\n.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-2,.cls-20,.cls-21,.cls-22,.cls-24,.cls-25,.cls-27,.cls-28,.cls-29,.cls-31,.cls-32,.cls-33,.cls-34,.cls-4,.cls-42,.cls-43,.cls-44,.cls-45,.cls-46,.cls-48,.cloud-back, .cloud-front{\nstroke-miterlimit:10;}\n.cls-12,.cls-13,.cls-27,.cls-29,.cls-4{\nfill:none;}\n.cls-5{\nfill:#ddd4b8;}\n.cls-6{\nfill:#bfb69d;}\n.cls-17,.cls-7{\nfill:#666;}\n.cls-8{\nfill:#f1e3ac;}\n.cls-9{\nfill:#e2d3a1;}\n.cls-10{\nfill:#9fb6bf;}\n.cls-11{\nfill:#ead9a0;}\n.cls-12{\nstroke:#a59160;}\n.cls-12,.cls-13{\nstroke-width:0.49px;}\n.cls-13{\nstroke:#af975b;}\n.cls-14{\nfill:#c53e4a;}\n.cls-14,.cls-15,.cls-16,.cls-17,.cls-31,.cls-33,.cloud-back, .cloud-front{\nstroke-width:0.5px;}\n.cls-15{\nfill:#b52c3c;}\n.cls-16{\nfill:#4d4d4d;}\n.cls-18,.cls-19,.cls-20{\nfill:#a02033;}\n.cls-18{\nstroke-width:0.46px;}\n.cls-19{\nstroke-width:0.47px;}\n.cls-20{\nstroke-width:0.47px;}\n.cls-21{\nfill:#b2492d;}\n.cls-21,.cls-22,.cls-24,.cls-25{\nstroke-width:0.54px;}\n.cls-22{\nfill:#333;}\n.cls-23{\nopacity:0.74;}\n.cls-24{\nfill:#3a2b23;}\n.cls-25{\nfill:#9e331e;}\n.cls-26{\nfill:#b7d473;}\n.cls-27,.cls-29,.cls-42,.cls-43,.cls-44,.cls-45,.cls-46,.cls-48{\nstroke-linecap:round;}\n.cls-27{\nstroke-width:1.22px;}\n.cls-30{\nopacity:0.17;}\n.cls-31{\nfill:#c14c34;}\n.cls-32{\nfill:#3a2921;stroke-width:0.48px;}\n.cls-33,.cls-34{\nfill:#aa3b29;}\n.cls-34{\nstroke-width:0.6px;}\n.cls-35{\nfill:#3b6b94;}\n.cls-36{\nfill:#ccc;}\n.cls-37,.cls-42,.cls-43,.cls-44,.cls-45,.cls-46,.cls-48{\nfill:#e6e6e6;}\n.cls-38{\nfill:gray;}\n.cls-39{\nfill:#999;}\n.cls-40{\nfill:#225070;}\n.cls-41{\nfill:#a0b552;}\n.cls-43{\nstroke-width:0.88px;}\n.cls-44{\nstroke-width:0.93px;}\n.cls-45{\nstroke-width:0.91px;}\n.cls-46{\nstroke-width:1.08px;}\n.cls-47{\nfill:#92a542;}\n.cls-48{\nstroke-width:0.81px;}\n.cls-49{\nfill:#f2f2f2;opacity:0.2;}\n.cloud-back, .cloud-front{\nfill:#57cee4;}",
+			"cloud-back",
+			"cls-50",
+			"svg",
+			"java",
+			"cls-1",
+			".cls-50",
+			"cls-50",
+			"cl-50",
+			"}",
+			"{",
+			"/>",
+			"cloud",
+			"circle",
+			"css",
+			"index h1",
+			"nav",
+			"#ffff00",
+			"#ff4500",
+			"#000",
+			"#52b47b",
+			"#bbbbbb",
+			"#fbf8f8",
+			"#000080",
+			"#3399cc",
+			"var(light-blue)",
+			"#66ccff",
+			"portrait",
+			"profile_portrait",
+			"profile portrait",
+			"image",
+			"profile",
+			".profile",
+			"column",
+			"form",
+			"submit",
+			"button",
+			"active",
+			"work",
+			"about",
+			"color",
+			".content",
+			"column",
+			"footer",
+			"label",
+			"input",
+			"contact",
+			"underline",
+			"under",
+			"standar",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			".cloud-back, .cloud-front",
+			"}\n",
+			"{\n",
+			"/>\n",
+			"^P",
+			"/>  ",
+			"var(--yellow)",
+			"var(--orange)",
+			"var(--black)",
+			"var(--green)",
+			"var(--light-gray)",
+			"var(--white)",
+			"var(--navy-blue)",
+			"var(--blue)",
+			"var(--light-blue)",
+			"var(light-blue)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
